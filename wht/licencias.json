@@ -8,5 +8,9 @@
       "activa": true
     }
   ],
-  "generado": "2026-11-09T16:11:26+01:00"
+  "generado": "2026-11-09T16:50:46+01:00",
+  "mensaje_app": {
+    "tipo": "test",
+    "texto": "Programa en test"
+  }
 }
