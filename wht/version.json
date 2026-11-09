@@ -1,0 +1,14 @@
+{
+  "app_id": "wht",
+  "nom": "Data Warehouse Terminal (WHT)",
+  "ultima": "0.1.0",
+  "build": 56,
+  "fecha": "2026-11-09",
+  "zip": "WHT-0.1.0.zip",
+  "url": "https://jramhome.github.io/wht/WHT-0.1.0.zip",
+  "sha256": null,
+  "notas": [
+    "TermID, logs por terminal, beep, tipos de código, IFU (manual HTML), doble factor con terminales de confianza, QR de acceso en la pantalla de entrada."
+  ],
+  "generado": "2026-11-09T16:11:26+01:00"
+}

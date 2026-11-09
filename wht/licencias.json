@@ -1,0 +1,12 @@
+{
+  "app_id": "wht",
+  "aviso_dias": 30,
+  "licencias": [
+    {
+      "hash": "e83ad95214a0d0c4b72818cd05775ab85b021af7b3ca9ed17bcd0f76dcd1242f",
+      "caduca": "2028-12-20",
+      "activa": true
+    }
+  ],
+  "generado": "2026-11-09T16:11:26+01:00"
+}

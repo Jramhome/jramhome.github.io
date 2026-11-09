@@ -1,0 +1,22 @@
+{
+  "wht": {
+    "nom": "Data Warehouse Terminal (WHT)",
+    "carpeta_local": "04-FormularisMagatzem",
+    "exe": "DataWarehouseTerminal.exe"
+  },
+  "dw01": {
+    "nom": "Dashboard PHP",
+    "carpeta_local": "06-Bashboarphpfuncional",
+    "exe": "DashboardPHP.exe"
+  },
+  "dmgs1": {
+    "nom": "DatamatrixGS1",
+    "carpeta_local": "01-DatamatrixRaspbery",
+    "exe": "DatamatrixGS1.exe"
+  },
+  "registre": {
+    "nom": "Registre documentació",
+    "carpeta_local": "02-Documentacion",
+    "exe": "Registre.exe"
+  }
+}
