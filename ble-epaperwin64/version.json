@@ -1,0 +1,14 @@
+{
+  "app_id": "ble-epaperwin64",
+  "nom": "BLE e-Paper",
+  "ultima": "0.10.0",
+  "build": 21,
+  "fecha": "2026-11-15",
+  "zip": "BLE-0.10.0.zip",
+  "url": "https://jramhome.github.io/ble-epaperwin64/BLE-0.10.0.zip",
+  "sha256": null,
+  "notas": [
+    "Codis de barres reals (EAN-13, Code 128, QR, DataMatrix i DataMatrix GS1) a l'editor d'etiquetes, amb mòduls de mida entera; botó Codi i simbologia a la llista d'elements."
+  ],
+  "generado": "2026-11-23T04:32:38+01:00"
+}
