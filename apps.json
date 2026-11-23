@@ -3,5 +3,9 @@
     "nom": "Data Warehouse Terminal (WHT)",
     "carpeta_local": "04-FormularisMagatzem",
     "exe": "DataWarehouseTerminal.exe"
+  },
+  "ble-epaperwin64": {
+    "nom": "BLE e-Paper",
+    "carpeta_local": "09-BLE"
   }
 }
