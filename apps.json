@@ -6,6 +6,7 @@
   },
   "ble-epaperwin64": {
     "nom": "BLE e-Paper",
-    "carpeta_local": "09-BLE"
+    "carpeta_local": "09-BLE",
+    "exe": "BleEpaper.exe"
   }
 }
