@@ -8,5 +8,9 @@
     "nom": "BLE e-Paper",
     "carpeta_local": "09-BLE",
     "exe": "BleEpaper.exe"
+  },
+  "microtask": {
+    "nom": "MiroTasques",
+    "carpeta_local": "15-MicroTareas"
   }
 }
